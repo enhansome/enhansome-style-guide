@@ -1,0 +1,516 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "android-guidelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-07-10T04:18:09Z",
+            "owner": "ribot",
+            "repo": "android-guidelines",
+            "stars": 4999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "archi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-10-03T12:13:37Z",
+            "owner": "ivacf",
+            "repo": "archi",
+            "stars": 3302
+          }
+        }
+      ],
+      "title": "Android"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "johnpapa's angular-styleguide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Snippet",
+            "last_commit": "2026-04-30T18:23:12Z",
+            "owner": "johnpapa",
+            "repo": "angular-styleguide",
+            "stars": 23624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Todd Motto's angular-styleguide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-24T23:24:49Z",
+            "owner": "toddmotto",
+            "repo": "angularjs-styleguide",
+            "stars": 5914
+          }
+        }
+      ],
+      "title": "AngularJS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CppCoreGuidelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-08-06T15:54:13Z",
+            "owner": "isocpp",
+            "repo": "CppCoreGuidelines",
+            "stars": 45239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cocos2d-x",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-09T03:36:03Z",
+            "owner": "cocos2d",
+            "repo": "cocos2d-x",
+            "stars": 19143
+          }
+        }
+      ],
+      "title": "Cpp"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "raywenderlich.com",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-03T06:55:34Z",
+            "owner": "kodecocodes",
+            "repo": "c-sharp-style-guide",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvdsgl's CSharp Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-07-15T18:24:52Z",
+            "owner": "dvdsgl",
+            "repo": "csharp-in-style",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "CSharp"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mod’s Code Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-07-26T02:51:35Z",
+            "owner": "mdo",
+            "repo": "code-guide",
+            "stars": 8467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-04T00:44:40Z",
+            "owner": "airbnb",
+            "repo": "css",
+            "stars": 6977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "necolas’s idiomatic-css",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-21T12:01:30Z",
+            "owner": "necolas",
+            "repo": "idiomatic-css",
+            "stars": 6651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThinkUp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2017-01-01T13:57:56Z",
+            "owner": "ThinkUpLLC",
+            "repo": "ThinkUp",
+            "stars": 3265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-08T08:25:39Z",
+            "owner": "dropbox",
+            "repo": "css-style-guide",
+            "stars": 1216
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "agis-",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-26T20:12:02Z",
+            "owner": "agis",
+            "repo": "git-style-guide",
+            "stars": 5118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Git Commit Message",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-29T07:10:31Z",
+            "owner": "slashsbin",
+            "repo": "styleguide-git-commit-message",
+            "stars": 1017
+          }
+        }
+      ],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airbnb ES6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb ES5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Standard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-11T08:28:23Z",
+            "owner": "standard",
+            "repo": "standard",
+            "stars": 29427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idiomatic.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-08T20:19:45Z",
+            "owner": "rwaldron",
+            "repo": "idiomatic.js",
+            "stars": 25727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-style-guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-01-24T03:40:33Z",
+            "owner": "felixge",
+            "repo": "node-style-guide",
+            "stars": 4993
+          }
+        }
+      ],
+      "title": "Javascript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-03T15:51:23Z",
+            "owner": "google",
+            "repo": "styleguide",
+            "stars": 39499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NYTimes(The New York Times)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2023-05-09T17:23:08Z",
+            "owner": "nytimes",
+            "repo": "objective-c-style-guide",
+            "stars": 5818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raywenderlich.com",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-01T12:49:18Z",
+            "owner": "kodecocodes",
+            "repo": "objective-c-style-guide",
+            "stars": 3083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-11-08T16:07:32Z",
+            "owner": "github",
+            "repo": "objective-c-style-guide",
+            "stars": 1665
+          }
+        }
+      ],
+      "title": "Objective-C"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bbatsov’s Ruby Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T10:56:34Z",
+            "owner": "rubocop",
+            "repo": "ruby-style-guide",
+            "stars": 16553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Airbnb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-19T06:38:30Z",
+            "owner": "airbnb",
+            "repo": "ruby",
+            "stars": 3891
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cookpad",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-12T09:32:41Z",
+            "owner": "cookpad",
+            "repo": "styleguide",
+            "stars": 1173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Christian Neukirchen's Ruby Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-04-17T13:37:40Z",
+            "owner": "leahneukirchen",
+            "repo": "styleguide",
+            "stars": 445
+          }
+        }
+      ],
+      "title": "Ruby"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "raywenderlich.com",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-01T18:21:22Z",
+            "owner": "kodecocodes",
+            "repo": "swift-style-guide",
+            "stars": 13162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2017-11-08T16:05:41Z",
+            "owner": "github",
+            "repo": "swift-style-guide",
+            "stars": 4757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slideshare (Linked)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-06-05T17:59:52Z",
+            "owner": "SlideShareInc",
+            "repo": "swift-style-guide",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Swift"
+    },
+    {
+      "description": "If you like this open source, you can sponsor it. :smile:\nPaypal me",
+      "items": [],
+      "title": "Donate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:32.488Z",
+    "original_repository": "kciter/awesome-style-guide",
+    "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
+    "enhanced_repository": "enhansome/enhansome-style-guide",
+    "enhanced_repository_description": null,
+    "title": "Awesome:star:Style Guide with stars"
+  }
+}
