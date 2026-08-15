@@ -82,7 +82,7 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45242
+            "stars": 45245
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19142
+            "stars": 19144
           }
         }
       ],
@@ -164,7 +164,7 @@
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6977
+            "stars": 6976
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148156
+            "stars": 148135
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148156
+            "stars": 148135
           }
         },
         {
@@ -288,7 +288,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29428
+            "stars": 29427
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39502
+            "stars": 39503
           }
         },
         {
@@ -350,7 +350,7 @@
             "last_commit": "2023-05-09T17:23:08Z",
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
-            "stars": 5818
+            "stars": 5819
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4758
+            "stars": 4759
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:18:16.005Z",
+    "last_updated": "2026-08-15T08:42:46.176Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
     "enhanced_repository": "enhansome/enhansome-style-guide",
