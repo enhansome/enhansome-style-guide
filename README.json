@@ -260,7 +260,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148135
+            "stars": 148144
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148135
+            "stars": 148144
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25729
+            "stars": 25731
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39503
+            "stars": 39506
           }
         },
         {
@@ -398,7 +398,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16552
+            "stars": 16551
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T08:42:46.176Z",
+    "last_updated": "2026-08-16T08:44:50.149Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
     "enhanced_repository": "enhansome/enhansome-style-guide",
