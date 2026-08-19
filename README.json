@@ -51,7 +51,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23621
+            "stars": 23620
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19146
+            "stars": 19147
           }
         }
       ],
@@ -306,7 +306,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29426
+            "stars": 29427
           }
         },
         {
@@ -527,8 +527,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:52:26.534Z",
+    "last_updated": "2026-08-19T12:52:53.956Z",
     "original_repository": "kciter/awesome-style-guide",
+    "original_repository_id": 57495614,
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
     "enhanced_repository": "enhansome/enhansome-style-guide",
     "enhanced_repository_description": null,
