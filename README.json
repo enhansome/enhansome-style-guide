@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20968095,
             "language": null,
             "last_commit": "2021-07-10T04:18:09Z",
             "owner": "ribot",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42318990,
             "language": "Java",
             "last_commit": "2019-10-03T12:13:37Z",
             "owner": "ivacf",
@@ -35,7 +37,7 @@
       "title": "Android"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22362099,
             "language": "Vim Snippet",
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22309429,
             "language": null,
             "last_commit": "2022-08-24T23:24:49Z",
             "owner": "toddmotto",
@@ -69,7 +73,7 @@
       "title": "AngularJS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41058054,
             "language": "CSS",
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45249
+            "stars": 45252
           }
         },
         {
@@ -92,18 +97,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1093228,
             "language": "C++",
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19148
+            "stars": 19146
           }
         }
       ],
       "title": "Cpp"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -112,6 +118,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37925131,
             "language": null,
             "last_commit": "2023-02-03T06:55:34Z",
             "owner": "kodecocodes",
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13419702,
             "language": null,
             "last_commit": "2018-07-15T18:24:52Z",
             "owner": "dvdsgl",
@@ -137,7 +145,7 @@
       "title": "CSharp"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -146,6 +154,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5894096,
             "language": "SCSS",
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
@@ -160,6 +169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38265709,
             "language": null,
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
@@ -174,6 +184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4431560,
             "language": null,
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
@@ -188,6 +199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220418,
             "language": "PHP",
             "last_commit": "2017-01-01T13:57:56Z",
             "owner": "ThinkUpLLC",
@@ -202,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44996791,
             "language": null,
             "last_commit": "2019-11-08T08:25:39Z",
             "owner": "dropbox",
@@ -213,7 +226,7 @@
       "title": "CSS"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -222,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33088032,
             "language": null,
             "last_commit": "2022-09-26T20:12:02Z",
             "owner": "agis",
@@ -236,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50177359,
             "language": "HTML",
             "last_commit": "2025-07-29T07:10:31Z",
             "owner": "slashsbin",
@@ -247,7 +262,7 @@
       "title": "Git"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -256,11 +271,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6498492,
             "language": "JavaScript",
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148133
+            "stars": 148132
           }
         },
         {
@@ -270,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6498492,
             "language": "JavaScript",
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148133
+            "stars": 148132
           }
         },
         {
@@ -284,11 +301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29891188,
             "language": "JavaScript",
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427
+            "stars": 29426
           }
         },
         {
@@ -298,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1800198,
             "language": null,
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25732
+            "stars": 25733
           }
         },
         {
@@ -312,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4822113,
             "language": "JavaScript",
             "last_commit": "2021-01-24T03:40:33Z",
             "owner": "felixge",
@@ -323,7 +343,7 @@
       "title": "Javascript"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -332,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35969061,
             "language": "HTML",
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
@@ -346,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 11797828,
             "language": null,
             "last_commit": "2023-05-09T17:23:08Z",
             "owner": "nytimes",
@@ -360,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14204860,
             "language": null,
             "last_commit": "2017-10-01T12:49:18Z",
             "owner": "kodecocodes",
@@ -374,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5968664,
             "language": null,
             "last_commit": "2017-11-08T16:07:32Z",
             "owner": "github",
@@ -385,7 +409,7 @@
       "title": "Objective-C"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -394,6 +418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2371106,
             "language": null,
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
@@ -408,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7967167,
             "language": "Ruby",
             "last_commit": "2025-12-19T06:38:30Z",
             "owner": "airbnb",
@@ -422,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17157951,
             "language": null,
             "last_commit": "2026-02-12T09:32:41Z",
             "owner": "cookpad",
@@ -436,6 +463,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97574,
             "language": null,
             "last_commit": "2018-04-17T13:37:40Z",
             "owner": "leahneukirchen",
@@ -447,7 +475,7 @@
       "title": "Ruby"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -456,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20667410,
             "language": null,
             "last_commit": "2025-04-01T18:21:22Z",
             "owner": "kodecocodes",
@@ -470,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21782593,
             "language": null,
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
@@ -484,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22119574,
             "language": null,
             "last_commit": "2016-06-05T17:59:52Z",
             "owner": "SlideShareInc",
@@ -493,20 +524,10 @@
         }
       ],
       "title": "Swift"
-    },
-    {
-      "description": "If you like this open source, you can sponsor it. :smile:\nPaypal me",
-      "items": [],
-      "title": "Donate"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:51:15.580Z",
+    "last_updated": "2026-08-19T08:52:26.534Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
     "enhanced_repository": "enhansome/enhansome-style-guide",
