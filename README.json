@@ -51,7 +51,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23619
+            "stars": 23618
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45254
+            "stars": 45258
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19150
+            "stars": 19152
           }
         }
       ],
@@ -174,7 +174,7 @@
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6976
+            "stars": 6974
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148130
+            "stars": 148124
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148130
+            "stars": 148124
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39515
+            "stars": 39519
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2025-04-01T18:21:22Z",
             "owner": "kodecocodes",
             "repo": "swift-style-guide",
-            "stars": 13162
+            "stars": 13161
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4758
+            "stars": 4757
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:53:46.623Z",
+    "last_updated": "2026-08-21T08:54:59.308Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_id": 57495614,
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
