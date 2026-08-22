@@ -87,7 +87,7 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45258
+            "stars": 45257
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19152
+            "stars": 19154
           }
         }
       ],
@@ -159,7 +159,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8465
+            "stars": 8462
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6651
+            "stars": 6652
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2022-09-26T20:12:02Z",
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5116
+            "stars": 5115
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148124
+            "stars": 148125
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148124
+            "stars": 148125
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427
+            "stars": 29428
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25734
+            "stars": 25730
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39519
+            "stars": 39522
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16551
+            "stars": 16550
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2025-04-01T18:21:22Z",
             "owner": "kodecocodes",
             "repo": "swift-style-guide",
-            "stars": 13161
+            "stars": 13160
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2017-11-08T16:05:41Z",
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4757
+            "stars": 4756
           }
         },
         {
@@ -527,7 +527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:54:59.308Z",
+    "last_updated": "2026-08-22T08:44:38.989Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_id": 57495614,
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
