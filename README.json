@@ -77,6 +77,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Linux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2325298,
+            "language": "C",
+            "last_commit": "2026-08-24T02:30:50Z",
+            "owner": "torvalds",
+            "repo": "linux",
+            "stars": 244029
+          }
+        }
+      ],
+      "title": "C"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoffeeScript Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3013517,
+            "language": null,
+            "last_commit": "2018-11-08T08:05:46Z",
+            "owner": "polarmobile",
+            "repo": "coffeescript-style-guide",
+            "stars": 1629
+          }
+        }
+      ],
+      "title": "CoffeeScript"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "CppCoreGuidelines",
           "description": null,
           "children": [],
@@ -102,7 +144,7 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19158
+            "stars": 19159
           }
         }
       ],
@@ -159,7 +201,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8462
+            "stars": 8463
           }
         },
         {
@@ -230,6 +272,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Erlang Guidelines",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22441315,
+            "language": "Erlang",
+            "last_commit": "2022-04-24T20:20:22Z",
+            "owner": "inaka",
+            "repo": "erlang_guidelines",
+            "stars": 641
+          }
+        }
+      ],
+      "title": "Erlang"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large app how to",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 596892,
+            "language": "Python",
+            "last_commit": "2026-08-16T18:35:35Z",
+            "owner": "pallets",
+            "repo": "flask",
+            "stars": 72148
+          }
+        }
+      ],
+      "title": "Flask"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "agis-",
           "description": null,
           "children": [],
@@ -260,6 +344,90 @@
         }
       ],
       "title": "Git"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CodeReviewComments",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23096959,
+            "language": "Go",
+            "last_commit": "2026-08-24T14:17:58Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 136204
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Haskell-style-guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131600,
+            "language": "Emacs Lisp",
+            "last_commit": "2021-11-30T18:31:25Z",
+            "owner": "tibbe",
+            "repo": "haskell-style-guide",
+            "stars": 958
+          }
+        }
+      ],
+      "title": "Haskell"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "http-api-design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19542809,
+            "language": null,
+            "last_commit": "2024-01-16T20:27:54Z",
+            "owner": "interagent",
+            "repo": "http-api-design",
+            "stars": 13684
+          }
+        }
+      ],
+      "title": "HTTP API Design"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mdo’s Code Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5894096,
+            "language": "SCSS",
+            "last_commit": "2024-07-26T02:51:35Z",
+            "owner": "mdo",
+            "repo": "code-guide",
+            "stars": 8463
+          }
+        }
+      ],
+      "title": "HTML"
     },
     {
       "description": null,
@@ -413,6 +581,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Google Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35969061,
+            "language": "HTML",
+            "last_commit": "2026-06-03T15:51:23Z",
+            "owner": "google",
+            "repo": "styleguide",
+            "stars": 39526
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airbnb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6498492,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T19:24:09Z",
+            "owner": "airbnb",
+            "repo": "javascript",
+            "stars": 148132
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ghengeveld's Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46949320,
+            "language": null,
+            "last_commit": "2016-02-17T18:01:14Z",
+            "owner": "ghengeveld",
+            "repo": "react-redux-styleguide",
+            "stars": 259
+          }
+        }
+      ],
+      "title": "Redux"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "bbatsov’s Ruby Style Guide",
           "description": null,
           "children": [],
@@ -479,6 +710,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "bbatsov's rails-style-guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2454047,
+            "language": null,
+            "last_commit": "2026-07-21T01:22:59Z",
+            "owner": "rubocop",
+            "repo": "rails-style-guide",
+            "stars": 6504
+          }
+        }
+      ],
+      "title": "Ruby on Rails"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rust-lang Official Style Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58007273,
+            "language": "Rust",
+            "last_commit": "2024-05-17T01:57:52Z",
+            "owner": "rust-lang",
+            "repo": "style-team",
+            "stars": 473
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spring-framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148753,
+            "language": "Java",
+            "last_commit": "2026-08-24T10:37:27Z",
+            "owner": "spring-projects",
+            "repo": "spring-framework",
+            "stars": 60208
+          }
+        }
+      ],
+      "title": "SpringFramework"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "raywenderlich.com",
           "description": null,
           "children": [],
@@ -527,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:01:39.126Z",
+    "last_updated": "2026-08-24T14:21:10.358Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_id": 57495614,
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
