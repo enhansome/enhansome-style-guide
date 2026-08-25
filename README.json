@@ -87,7 +87,7 @@
             "last_commit": "2026-08-24T19:25:00Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244302
+            "stars": 244308
           }
         }
       ],
@@ -201,7 +201,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8463
+            "stars": 8462
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72147
+            "stars": 72146
           }
         }
       ],
@@ -357,10 +357,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-25T00:53:42Z",
+            "last_commit": "2026-08-25T07:07:58Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136443
+            "stars": 136449
           }
         }
       ],
@@ -423,7 +423,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8463
+            "stars": 8462
           }
         }
       ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148132
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148132
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148131
+            "stars": 148132
           }
         }
       ],
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-24T16:22:05Z",
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60211
+            "stars": 60209
           }
         }
       ],
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:46.838Z",
+    "last_updated": "2026-08-25T08:57:07.763Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_id": 57495614,
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
