@@ -15,7 +15,7 @@
             "last_commit": "2021-07-10T04:18:09Z",
             "owner": "ribot",
             "repo": "android-guidelines",
-            "stars": 4999
+            "stars": 4998
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-04-30T18:23:12Z",
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23617
+            "stars": 23616
           }
         },
         {
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-24T19:25:00Z",
+            "last_commit": "2026-08-25T21:32:30Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244308
+            "stars": 244433
           }
         }
       ],
@@ -108,7 +108,7 @@
             "last_commit": "2018-11-08T08:05:46Z",
             "owner": "polarmobile",
             "repo": "coffeescript-style-guide",
-            "stars": 1629
+            "stars": 1628
           }
         }
       ],
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45266
+            "stars": 45273
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2022-12-21T12:01:30Z",
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6652
+            "stars": 6651
           }
         },
         {
@@ -357,10 +357,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-25T07:07:58Z",
+            "last_commit": "2026-08-26T02:35:23Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136449
+            "stars": 136457
           }
         }
       ],
@@ -402,7 +402,7 @@
             "last_commit": "2024-01-16T20:27:54Z",
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13685
+            "stars": 13684
           }
         }
       ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148132
+            "stars": 148135
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148132
+            "stars": 148135
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29430
+            "stars": 29431
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2024-01-08T20:19:45Z",
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25728
+            "stars": 25727
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39531
+            "stars": 39532
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39531
+            "stars": 39532
           }
         }
       ],
@@ -612,7 +612,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148132
+            "stars": 148135
           }
         }
       ],
@@ -654,7 +654,7 @@
             "last_commit": "2026-07-20T10:56:34Z",
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16550
+            "stars": 16548
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-24T16:22:05Z",
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60209
+            "stars": 60212
           }
         }
       ],
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:57:07.763Z",
+    "last_updated": "2026-08-26T08:59:17.869Z",
     "original_repository": "kciter/awesome-style-guide",
     "original_repository_id": 57495614,
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
