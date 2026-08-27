@@ -84,10 +84,10 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-26T23:09:41Z",
+            "last_commit": "2026-08-27T18:52:15Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244637
+            "stars": 244694
           }
         }
       ],
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45280
+            "stars": 45278
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19163
+            "stars": 19165
           }
         }
       ],
@@ -165,7 +165,7 @@
             "last_commit": "2023-02-03T06:55:34Z",
             "owner": "kodecocodes",
             "repo": "c-sharp-style-guide",
-            "stars": 502
+            "stars": 501
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8462
+            "stars": 8463
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72143
+            "stars": 72145
           }
         }
       ],
@@ -357,10 +357,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T18:32:19Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136544
           }
         }
       ],
@@ -423,7 +423,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8462
+            "stars": 8463
           }
         }
       ],
@@ -444,7 +444,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148139
+            "stars": 148141
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148139
+            "stars": 148141
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39543
+            "stars": 39545
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39543
+            "stars": 39545
           }
         }
       ],
@@ -612,7 +612,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148139
+            "stars": 148141
           }
         }
       ],
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 1148753,
             "language": "Java",
-            "last_commit": "2026-08-26T14:48:40Z",
+            "last_commit": "2026-08-27T15:28:39Z",
             "owner": "spring-projects",
             "repo": "spring-framework",
             "stars": 60211
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:19.176Z",
+    "last_updated": "2026-08-27T19:03:08.625Z",
     "original_repository_info": {
       "archived": false,
       "id": 57495614,
@@ -829,7 +829,7 @@
       "last_commit": "2023-01-19T09:04:15Z",
       "owner": "kciter",
       "repo": "awesome-style-guide",
-      "stars": 1109
+      "stars": 1110
     },
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
     "enhanced_repository": "enhansome/enhansome-style-guide",
