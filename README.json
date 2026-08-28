@@ -16,7 +16,8 @@
             "owner": "ribot",
             "repo": "android-guidelines",
             "stars": 4998
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "ivacf",
             "repo": "archi",
             "stars": 3302
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Android"
@@ -52,7 +54,8 @@
             "owner": "johnpapa",
             "repo": "angular-styleguide",
             "stars": 23616
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "toddmotto",
             "repo": "angularjs-styleguide",
             "stars": 5911
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "AngularJS"
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-27T18:52:15Z",
+            "last_commit": "2026-08-28T19:48:41Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244694
-          }
+            "stars": 244838
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "C"
@@ -109,7 +114,8 @@
             "owner": "polarmobile",
             "repo": "coffeescript-style-guide",
             "stars": 1628
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "CoffeeScript"
@@ -129,8 +135,9 @@
             "last_commit": "2026-08-06T15:54:13Z",
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45278
-          }
+            "stars": 45281
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -144,8 +151,9 @@
             "last_commit": "2025-05-09T03:36:03Z",
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19165
-          }
+            "stars": 19166
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Cpp"
@@ -166,7 +174,8 @@
             "owner": "kodecocodes",
             "repo": "c-sharp-style-guide",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -181,7 +190,8 @@
             "owner": "dvdsgl",
             "repo": "csharp-in-style",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "CSharp"
@@ -202,7 +212,8 @@
             "owner": "mdo",
             "repo": "code-guide",
             "stars": 8463
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -217,7 +228,8 @@
             "owner": "airbnb",
             "repo": "css",
             "stars": 6974
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -232,7 +244,8 @@
             "owner": "necolas",
             "repo": "idiomatic-css",
             "stars": 6652
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -247,7 +260,8 @@
             "owner": "ThinkUpLLC",
             "repo": "ThinkUp",
             "stars": 3264
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -262,7 +276,8 @@
             "owner": "dropbox",
             "repo": "css-style-guide",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "CSS"
@@ -283,7 +298,8 @@
             "owner": "inaka",
             "repo": "erlang_guidelines",
             "stars": 641
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Erlang"
@@ -303,8 +319,9 @@
             "last_commit": "2026-08-16T18:35:35Z",
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72145
-          }
+            "stars": 72144
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Flask"
@@ -325,7 +342,8 @@
             "owner": "agis",
             "repo": "git-style-guide",
             "stars": 5116
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -340,7 +358,8 @@
             "owner": "slashsbin",
             "repo": "styleguide-git-commit-message",
             "stars": 1016
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Git"
@@ -357,11 +376,12 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T18:32:19Z",
+            "last_commit": "2026-08-28T19:10:03Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136544
-          }
+            "stars": 136558
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Go"
@@ -382,7 +402,8 @@
             "owner": "tibbe",
             "repo": "haskell-style-guide",
             "stars": 959
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Haskell"
@@ -403,7 +424,8 @@
             "owner": "interagent",
             "repo": "http-api-design",
             "stars": 13684
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "HTTP API Design"
@@ -424,7 +446,8 @@
             "owner": "mdo",
             "repo": "code-guide",
             "stars": 8463
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "HTML"
@@ -444,8 +467,9 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148141
-          }
+            "stars": 148144
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -459,8 +483,9 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148141
-          }
+            "stars": 148144
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -474,8 +499,9 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29428
-          }
+            "stars": 29427
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -490,7 +516,8 @@
             "owner": "rwaldron",
             "repo": "idiomatic.js",
             "stars": 25728
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -505,7 +532,8 @@
             "owner": "felixge",
             "repo": "node-style-guide",
             "stars": 4993
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Javascript"
@@ -525,8 +553,9 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39545
-          }
+            "stars": 39549
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -541,7 +570,8 @@
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
             "stars": 5818
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -556,7 +586,8 @@
             "owner": "kodecocodes",
             "repo": "objective-c-style-guide",
             "stars": 3083
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -571,7 +602,8 @@
             "owner": "github",
             "repo": "objective-c-style-guide",
             "stars": 1665
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Objective-C"
@@ -591,8 +623,9 @@
             "last_commit": "2026-06-03T15:51:23Z",
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39545
-          }
+            "stars": 39549
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Python"
@@ -612,8 +645,9 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148141
-          }
+            "stars": 148144
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "React"
@@ -634,7 +668,8 @@
             "owner": "ghengeveld",
             "repo": "react-redux-styleguide",
             "stars": 259
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Redux"
@@ -655,7 +690,8 @@
             "owner": "rubocop",
             "repo": "ruby-style-guide",
             "stars": 16548
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -670,7 +706,8 @@
             "owner": "airbnb",
             "repo": "ruby",
             "stars": 3892
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -685,7 +722,8 @@
             "owner": "cookpad",
             "repo": "styleguide",
             "stars": 1174
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -700,7 +738,8 @@
             "owner": "leahneukirchen",
             "repo": "styleguide",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Ruby"
@@ -721,7 +760,8 @@
             "owner": "rubocop",
             "repo": "rails-style-guide",
             "stars": 6504
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Ruby on Rails"
@@ -742,7 +782,8 @@
             "owner": "rust-lang",
             "repo": "style-team",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Rust"
@@ -759,11 +800,12 @@
             "archived": false,
             "id": 1148753,
             "language": "Java",
-            "last_commit": "2026-08-27T15:28:39Z",
+            "last_commit": "2026-08-28T17:16:35Z",
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60211
-          }
+            "stars": 60209
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "SpringFramework"
@@ -784,7 +826,8 @@
             "owner": "kodecocodes",
             "repo": "swift-style-guide",
             "stars": 13161
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -799,7 +842,8 @@
             "owner": "github",
             "repo": "swift-style-guide",
             "stars": 4756
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         },
         {
           "node_type": "item",
@@ -814,14 +858,15 @@
             "owner": "SlideShareInc",
             "repo": "swift-style-guide",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T20:11:06.860Z"
         }
       ],
       "title": "Swift"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:03:08.625Z",
+    "last_updated": "2026-08-28T20:11:06.860Z",
     "original_repository_info": {
       "archived": false,
       "id": 57495614,
