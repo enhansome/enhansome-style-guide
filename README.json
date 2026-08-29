@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Architecture and code guidelines we use at ribot when developing for Android",
+            "homepage": "http://ribot.co.uk/",
             "id": 20968095,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-07-10T04:18:09Z",
+            "open_issues": 12,
             "owner": "ribot",
             "repo": "android-guidelines",
-            "stars": 4998
+            "stars": 4998,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository that showcases 3 Android app architectures: \"Standard Android\", MVP and MVVM. The exact same app is built 3 times following the different patterns.",
+            "homepage": null,
             "id": 42318990,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-03T12:13:37Z",
+            "open_issues": 12,
             "owner": "ivacf",
             "repo": "archi",
-            "stars": 3302
+            "stars": 3302,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -48,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.",
+            "homepage": "http://johnpapa.net",
             "id": 22362099,
             "language": "Vim Snippet",
+            "license": "MIT",
             "last_commit": "2026-04-30T18:23:12Z",
+            "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23616
+            "stars": 23617,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -64,12 +79,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AngularJS styleguide for teams",
+            "homepage": "https://funforms.com",
             "id": 22309429,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-24T23:24:49Z",
+            "open_issues": 23,
             "owner": "toddmotto",
             "repo": "angularjs-styleguide",
-            "stars": 5911
+            "stars": 5911,
+            "topics": [
+              "angular",
+              "angularjs",
+              "es2015",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -86,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux kernel source tree",
+            "homepage": null,
             "id": 2325298,
             "language": "C",
-            "last_commit": "2026-08-28T19:48:41Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:12:08Z",
+            "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 244838
+            "stars": 244870,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -108,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Best-practices and coding conventions for the CoffeeScript programming language",
+            "homepage": null,
             "id": 3013517,
             "language": null,
+            "license": null,
             "last_commit": "2018-11-08T08:05:46Z",
+            "open_issues": 18,
             "owner": "polarmobile",
             "repo": "coffeescript-style-guide",
-            "stars": 1628
+            "stars": 1628,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -130,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+            "homepage": "http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
             "id": 41058054,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T15:54:13Z",
+            "open_issues": 246,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45281
+            "stars": 45284,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -146,12 +186,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x & 2.x.",
+            "homepage": "https://www.cocos.com/en/cocos2d-x",
             "id": 1093228,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-05-09T03:36:03Z",
+            "open_issues": 1604,
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19166
+            "stars": 19166,
+            "topics": [
+              "android",
+              "c-plus-plus",
+              "cocos2d",
+              "cocos2d-x",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "ios",
+              "linx",
+              "lua",
+              "metal",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -168,12 +226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C# Style Guide for Game Tech tutorials",
+            "homepage": null,
             "id": 37925131,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-03T06:55:34Z",
+            "open_issues": 3,
             "owner": "kodecocodes",
             "repo": "c-sharp-style-guide",
-            "stars": 501
+            "stars": 501,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -184,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A style guide for C#.",
+            "homepage": null,
             "id": 13419702,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2018-07-15T18:24:52Z",
+            "open_issues": 6,
             "owner": "dvdsgl",
             "repo": "csharp-in-style",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -206,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standards for developing consistent, flexible, and sustainable HTML and CSS.",
+            "homepage": "https://codeguide.co",
             "id": 5894096,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-07-26T02:51:35Z",
+            "open_issues": 13,
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8463
+            "stars": 8463,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -222,12 +295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mostly reasonable approach to CSS and Sass.",
+            "homepage": null,
             "id": 38265709,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-04T00:44:40Z",
+            "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6974
+            "stars": 6974,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -238,12 +316,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Principles of writing consistent, idiomatic CSS.",
+            "homepage": null,
             "id": 4431560,
             "language": null,
+            "license": null,
             "last_commit": "2022-12-21T12:01:30Z",
+            "open_issues": 7,
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6652
+            "stars": 6652,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -254,12 +337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.",
+            "homepage": "http://thinkup.com",
             "id": 220418,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2017-01-01T13:57:56Z",
+            "open_issues": 181,
             "owner": "ThinkUpLLC",
             "repo": "ThinkUp",
-            "stars": 3264
+            "stars": 3264,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -270,12 +358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dropbox’s (S)CSS authoring style guide",
+            "homepage": null,
             "id": 44996791,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2019-11-08T08:25:39Z",
+            "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1215
+            "stars": 1215,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -292,12 +385,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inaka's Erlang Coding Guidelines",
+            "homepage": null,
             "id": 22441315,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-24T20:20:22Z",
+            "open_issues": 5,
             "owner": "inaka",
             "repo": "erlang_guidelines",
-            "stars": 641
+            "stars": 641,
+            "topics": [
+              "erlang",
+              "guidelines",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -314,12 +416,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Python micro framework for building web applications.",
+            "homepage": "https://flask.palletsprojects.com",
             "id": 596892,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-16T18:35:35Z",
+            "open_issues": 3,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72144
+            "stars": 72143,
+            "topics": [
+              "flask",
+              "jinja",
+              "pallets",
+              "python",
+              "web-framework",
+              "werkzeug",
+              "wsgi"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -336,12 +451,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Git Style Guide",
+            "homepage": null,
             "id": 33088032,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2022-09-26T20:12:02Z",
+            "open_issues": 0,
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5116
+            "stars": 5116,
+            "topics": [
+              "git",
+              "style",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -352,12 +477,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "/sBin/StyleGuide/Git/CommitMessage",
+            "homepage": "http://slashsbin.dev/styleguide-git-commit-message/",
             "id": 50177359,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-29T07:10:31Z",
+            "open_issues": 0,
             "owner": "slashsbin",
             "repo": "styleguide-git-commit-message",
-            "stars": 1016
+            "stars": 1016,
+            "topics": [
+              "commit",
+              "commits",
+              "emoji",
+              "emojify",
+              "emojis",
+              "gitmoji",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -374,12 +513,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Go programming language",
+            "homepage": "https://go.dev",
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-28T19:10:03Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:42:41Z",
+            "open_issues": 10085,
             "owner": "golang",
             "repo": "go",
-            "stars": 136558
+            "stars": 136562,
+            "topics": [
+              "go",
+              "golang",
+              "language",
+              "programming-language"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -396,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A style guide for Haskell code.",
+            "homepage": null,
             "id": 131600,
             "language": "Emacs Lisp",
+            "license": null,
             "last_commit": "2021-11-30T18:31:25Z",
+            "open_issues": 9,
             "owner": "tibbe",
             "repo": "haskell-style-guide",
-            "stars": 959
+            "stars": 959,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -418,12 +572,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP API design guide extracted from work on the Heroku Platform API",
+            "homepage": "https://geemus.gitbooks.io/http-api-design/content/en/",
             "id": 19542809,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-16T20:27:54Z",
+            "open_issues": 30,
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13684
+            "stars": 13684,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -440,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standards for developing consistent, flexible, and sustainable HTML and CSS.",
+            "homepage": "https://codeguide.co",
             "id": 5894096,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-07-26T02:51:35Z",
+            "open_issues": 13,
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8463
+            "stars": 8463,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -462,12 +626,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -478,12 +662,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -494,12 +698,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 JavaScript Style Guide, with linter & automatic code fixer",
+            "homepage": "https://standardjs.com",
             "id": 29891188,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-11T08:28:23Z",
+            "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29427
+            "stars": 29428,
+            "topics": [
+              "development",
+              "ecmascript",
+              "es6",
+              "eslint",
+              "javascript",
+              "linter",
+              "nodejs",
+              "standard",
+              "static-code-analysis",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -510,12 +730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Principles of Writing Consistent, Idiomatic JavaScript",
+            "homepage": null,
             "id": 1800198,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-08T20:19:45Z",
+            "open_issues": 58,
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25728
+            "stars": 25729,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -526,12 +751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide for styling your node.js / JavaScript code. Fork & adjust to your taste.",
+            "homepage": null,
             "id": 4822113,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-01-24T03:40:33Z",
+            "open_issues": 17,
             "owner": "felixge",
             "repo": "node-style-guide",
-            "stars": 4993
+            "stars": 4993,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -548,12 +778,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Style guides for Google-originated open-source projects",
+            "homepage": "https://google.github.io/styleguide/",
             "id": 35969061,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-03T15:51:23Z",
+            "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39549
+            "stars": 39549,
+            "topics": [
+              "cpplint",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -564,12 +803,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Objective-C Style Guide used by The New York Times",
+            "homepage": "http://open.blogs.nytimes.com/2013/08/01/objectively-stylish/",
             "id": 11797828,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-05-09T17:23:08Z",
+            "open_issues": 0,
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
-            "stars": 5818
+            "stars": 5817,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -580,12 +824,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A style guide that outlines the coding conventions for Kodeco",
+            "homepage": "http://www.raywenderlich.com/62570/objective-c-style-guide",
             "id": 14204860,
             "language": null,
+            "license": null,
             "last_commit": "2017-10-01T12:49:18Z",
+            "open_issues": 22,
             "owner": "kodecocodes",
             "repo": "objective-c-style-guide",
-            "stars": 3083
+            "stars": 3082,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -596,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "**Archived** Style guide & coding conventions for Objective-C projects",
+            "homepage": null,
             "id": 5968664,
             "language": null,
+            "license": null,
             "last_commit": "2017-11-08T16:07:32Z",
+            "open_issues": 3,
             "owner": "github",
             "repo": "objective-c-style-guide",
-            "stars": 1665
+            "stars": 1665,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -618,12 +872,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Style guides for Google-originated open-source projects",
+            "homepage": "https://google.github.io/styleguide/",
             "id": 35969061,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-03T15:51:23Z",
+            "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39549
+            "stars": 39549,
+            "topics": [
+              "cpplint",
+              "style-guide",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -640,12 +903,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -662,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React / Redux Style Guide",
+            "homepage": null,
             "id": 46949320,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-17T18:01:14Z",
+            "open_issues": 1,
             "owner": "ghengeveld",
             "repo": "react-redux-styleguide",
-            "stars": 259
+            "stars": 259,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -684,12 +972,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-driven Ruby coding style guide",
+            "homepage": "https://rubystyle.guide",
             "id": 2371106,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-20T10:56:34Z",
+            "open_issues": 74,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16548
+            "stars": 16548,
+            "topics": [
+              "rubocop",
+              "ruby",
+              "style-guide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -700,12 +997,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby Style Guide",
+            "homepage": null,
             "id": 7967167,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-19T06:38:30Z",
+            "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3892
+            "stars": 3892,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -716,12 +1018,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cookpad's coding style guides",
+            "homepage": null,
             "id": 17157951,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-12T09:32:41Z",
+            "open_issues": 3,
             "owner": "cookpad",
             "repo": "styleguide",
-            "stars": 1174
+            "stars": 1174,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -732,12 +1039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 97574,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-17T13:37:40Z",
+            "open_issues": 2,
             "owner": "leahneukirchen",
             "repo": "styleguide",
-            "stars": 445
+            "stars": 445,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -754,12 +1066,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community-driven Ruby on Rails style guide",
+            "homepage": "http://rails.rubystyle.guide",
             "id": 2454047,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-21T01:22:59Z",
+            "open_issues": 44,
             "owner": "rubocop",
             "repo": "rails-style-guide",
-            "stars": 6504
+            "stars": 6504,
+            "topics": [
+              "rails",
+              "rubocop",
+              "ruby",
+              "styleguide"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -776,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home of the Rust style team",
+            "homepage": null,
             "id": 58007273,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-17T01:57:52Z",
+            "open_issues": 31,
             "owner": "rust-lang",
             "repo": "style-team",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -798,12 +1125,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Framework",
+            "homepage": "https://spring.io/projects/spring-framework",
             "id": 1148753,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:16:35Z",
+            "open_issues": 504,
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60209
+            "stars": 60210,
+            "topics": [
+              "spring",
+              "spring-framework",
+              "spring-mvc"
+            ]
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -820,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Swift style guide for Kodeco.",
+            "homepage": null,
             "id": 20667410,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-04-01T18:21:22Z",
+            "open_issues": 16,
             "owner": "kodecocodes",
             "repo": "swift-style-guide",
-            "stars": 13161
+            "stars": 13161,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -836,12 +1177,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "**Archived** Style guide & coding conventions for Swift projects",
+            "homepage": null,
             "id": 21782593,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2017-11-08T16:05:41Z",
+            "open_issues": 4,
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4756
+            "stars": 4756,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         },
@@ -852,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SlideShare Swift Style Guide we are using for our upcoming iOS 8 only app written in Swift",
+            "homepage": null,
             "id": 22119574,
             "language": null,
+            "license": null,
             "last_commit": "2016-06-05T17:59:52Z",
+            "open_issues": 0,
             "owner": "SlideShareInc",
             "repo": "swift-style-guide",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
         }
@@ -866,15 +1217,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:11:06.860Z",
+    "last_updated": "2026-08-29T04:36:07.494Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome style guide.",
+      "homepage": null,
       "id": 57495614,
       "language": "Ruby",
+      "license": "CC0-1.0",
       "last_commit": "2023-01-19T09:04:15Z",
+      "open_issues": 0,
       "owner": "kciter",
       "repo": "awesome-style-guide",
-      "stars": 1110
+      "stars": 1110,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "document",
+        "style-guide",
+        "styleguide"
+      ]
     },
     "original_repository_sha": "a6bd56b68ec614c4efaa2e5ad87abe6aae803e6b",
     "enhanced_repository": "enhansome/enhansome-style-guide",
