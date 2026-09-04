@@ -116,11 +116,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T23:22:03Z",
+            "last_commit": "2026-09-04T05:50:44Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 246404,
+            "stars": 246578,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -174,7 +174,7 @@
             "open_issues": 246,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45292,
+            "stars": 45296,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -195,7 +195,7 @@
             "open_issues": 1604,
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19172,
+            "stars": 19173,
             "topics": [
               "android",
               "c-plus-plus",
@@ -304,7 +304,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6970,
+            "stars": 6969,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -367,7 +367,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1214,
+            "stars": 1213,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -425,7 +425,7 @@
             "open_issues": 4,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 72160,
+            "stars": 72166,
             "topics": [
               "flask",
               "jinja",
@@ -460,7 +460,7 @@
             "open_issues": 0,
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5116,
+            "stars": 5117,
             "topics": [
               "git",
               "style",
@@ -518,11 +518,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T07:29:54Z",
-            "open_issues": 10136,
+            "last_commit": "2026-09-03T18:41:01Z",
+            "open_issues": 10144,
             "owner": "golang",
             "repo": "go",
-            "stars": 137422,
+            "stars": 137502,
             "topics": [
               "go",
               "golang",
@@ -635,7 +635,7 @@
             "open_issues": 164,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148140,
+            "stars": 148146,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -671,7 +671,7 @@
             "open_issues": 164,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148140,
+            "stars": 148146,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -707,7 +707,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29432,
+            "stars": 29431,
             "topics": [
               "development",
               "ecmascript",
@@ -739,7 +739,7 @@
             "open_issues": 58,
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25730,
+            "stars": 25728,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -912,7 +912,7 @@
             "open_issues": 164,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148140,
+            "stars": 148146,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -1130,11 +1130,11 @@
             "id": 1148753,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T11:55:59Z",
-            "open_issues": 485,
+            "last_commit": "2026-09-04T12:38:51Z",
+            "open_issues": 483,
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60219,
+            "stars": 60221,
             "topics": [
               "spring",
               "spring-framework",
@@ -1217,7 +1217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:47:59.185Z",
+    "last_updated": "2026-09-04T12:41:55.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome style guide.",
