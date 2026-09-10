@@ -116,11 +116,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T22:23:08Z",
+            "last_commit": "2026-09-09T18:38:16Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 247619,
+            "stars": 247690,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -174,7 +174,7 @@
             "open_issues": 246,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45303,
+            "stars": 45306,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -195,7 +195,7 @@
             "open_issues": 1604,
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19179,
+            "stars": 19180,
             "topics": [
               "android",
               "c-plus-plus",
@@ -422,10 +422,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-08T16:40:53Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 73575,
+            "stars": 73558,
             "topics": [
               "flask",
               "jinja",
@@ -518,11 +518,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T09:31:58Z",
-            "open_issues": 10133,
+            "last_commit": "2026-09-10T02:45:47Z",
+            "open_issues": 10158,
             "owner": "golang",
             "repo": "go",
-            "stars": 138035,
+            "stars": 137997,
             "topics": [
               "go",
               "golang",
@@ -739,7 +739,7 @@
             "open_issues": 58,
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25726,
+            "stars": 25725,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -783,11 +783,11 @@
             "id": 35969061,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-03T15:51:23Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-10T03:42:25Z",
+            "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39588,
+            "stars": 39590,
             "topics": [
               "cpplint",
               "style-guide",
@@ -812,7 +812,7 @@
             "open_issues": 0,
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
-            "stars": 5814,
+            "stars": 5813,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -877,11 +877,11 @@
             "id": 35969061,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-03T15:51:23Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-10T03:42:25Z",
+            "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39588,
+            "stars": 39590,
             "topics": [
               "cpplint",
               "style-guide",
@@ -981,7 +981,7 @@
             "open_issues": 73,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16545,
+            "stars": 16546,
             "topics": [
               "rubocop",
               "ruby",
@@ -1130,11 +1130,11 @@
             "id": 1148753,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T09:39:13Z",
-            "open_issues": 467,
+            "last_commit": "2026-09-10T12:42:00Z",
+            "open_issues": 466,
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60233,
+            "stars": 60232,
             "topics": [
               "spring",
               "spring-framework",
@@ -1165,7 +1165,7 @@
             "open_issues": 16,
             "owner": "kodecocodes",
             "repo": "swift-style-guide",
-            "stars": 13154,
+            "stars": 13153,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -1217,7 +1217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:56:21.046Z",
+    "last_updated": "2026-09-10T12:53:29.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome style guide.",
