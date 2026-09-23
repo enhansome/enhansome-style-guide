@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23611,
+            "stars": 23610,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -116,11 +116,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T18:27:28Z",
+            "last_commit": "2026-09-22T17:36:10Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 249783,
+            "stars": 249894,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -171,10 +171,10 @@
             "language": "CSS",
             "license": "NOASSERTION",
             "last_commit": "2026-08-06T15:54:13Z",
-            "open_issues": 247,
+            "open_issues": 248,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45328,
+            "stars": 45329,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -195,7 +195,7 @@
             "open_issues": 1604,
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19189,
+            "stars": 19191,
             "topics": [
               "android",
               "c-plus-plus",
@@ -325,7 +325,7 @@
             "open_issues": 7,
             "owner": "necolas",
             "repo": "idiomatic-css",
-            "stars": 6648,
+            "stars": 6647,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -460,7 +460,7 @@
             "open_issues": 0,
             "owner": "agis",
             "repo": "git-style-guide",
-            "stars": 5115,
+            "stars": 5114,
             "topics": [
               "git",
               "style",
@@ -518,11 +518,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T09:17:43Z",
-            "open_issues": 10177,
+            "last_commit": "2026-09-22T22:24:27Z",
+            "open_issues": 10212,
             "owner": "golang",
             "repo": "go",
-            "stars": 138937,
+            "stars": 138962,
             "topics": [
               "go",
               "golang",
@@ -635,7 +635,7 @@
             "open_issues": 165,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148256,
+            "stars": 148261,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -671,7 +671,7 @@
             "open_issues": 165,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148256,
+            "stars": 148261,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -707,7 +707,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29433,
+            "stars": 29435,
             "topics": [
               "development",
               "ecmascript",
@@ -739,7 +739,7 @@
             "open_issues": 58,
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25732,
+            "stars": 25733,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -787,7 +787,7 @@
             "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39624,
+            "stars": 39627,
             "topics": [
               "cpplint",
               "style-guide",
@@ -812,7 +812,7 @@
             "open_issues": 0,
             "owner": "nytimes",
             "repo": "objective-c-style-guide",
-            "stars": 5813,
+            "stars": 5812,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -881,7 +881,7 @@
             "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39624,
+            "stars": 39627,
             "topics": [
               "cpplint",
               "style-guide",
@@ -912,7 +912,7 @@
             "open_issues": 165,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148256,
+            "stars": 148261,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -981,7 +981,7 @@
             "open_issues": 73,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16549,
+            "stars": 16548,
             "topics": [
               "rubocop",
               "ruby",
@@ -1072,7 +1072,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-21T01:22:59Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "rubocop",
             "repo": "rails-style-guide",
             "stars": 6504,
@@ -1130,11 +1130,11 @@
             "id": 1148753,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T15:26:03Z",
-            "open_issues": 465,
+            "last_commit": "2026-09-22T20:18:52Z",
+            "open_issues": 470,
             "owner": "spring-projects",
             "repo": "spring-framework",
-            "stars": 60257,
+            "stars": 60259,
             "topics": [
               "spring",
               "spring-framework",
@@ -1217,7 +1217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:22:43.805Z",
+    "last_updated": "2026-09-23T13:36:16.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome style guide.",
