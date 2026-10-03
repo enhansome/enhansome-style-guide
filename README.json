@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "android-guidelines",
-          "description": null,
+          "description": "ribot/android-guidelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "archi",
-          "description": null,
+          "description": "ivacf/archi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -54,7 +54,7 @@
         {
           "node_type": "item",
           "title": "johnpapa's angular-styleguide",
-          "description": null,
+          "description": "johnpapa/angular-styleguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "johnpapa",
             "repo": "angular-styleguide",
-            "stars": 23602,
+            "stars": 23601,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Todd Motto's angular-styleguide",
-          "description": null,
+          "description": "toddmotto/angularjs-styleguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -107,7 +107,7 @@
         {
           "node_type": "item",
           "title": "Linux",
-          "description": null,
+          "description": "torvalds/linux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,11 +116,11 @@
             "id": 2325298,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T21:36:38Z",
+            "last_commit": "2026-10-03T03:46:09Z",
             "open_issues": 3,
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 250823,
+            "stars": 250876,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -134,7 +134,7 @@
         {
           "node_type": "item",
           "title": "CoffeeScript Style Guide",
-          "description": null,
+          "description": "polarmobile/coffeescript-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "CppCoreGuidelines",
-          "description": null,
+          "description": "isocpp/CppCoreGuidelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -174,7 +174,7 @@
             "open_issues": 246,
             "owner": "isocpp",
             "repo": "CppCoreGuidelines",
-            "stars": 45351,
+            "stars": 45353,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "cocos2d-x",
-          "description": null,
+          "description": "cocos2d/cocos2d-x",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
             "open_issues": 1604,
             "owner": "cocos2d",
             "repo": "cocos2d-x",
-            "stars": 19201,
+            "stars": 19200,
             "topics": [
               "android",
               "c-plus-plus",
@@ -222,7 +222,7 @@
         {
           "node_type": "item",
           "title": "raywenderlich.com",
-          "description": null,
+          "description": "kodecocodes/c-sharp-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "dvdsgl's CSharp Style Guide",
-          "description": null,
+          "description": "dvdsgl/csharp-in-style",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "mod’s Code Guide",
-          "description": null,
+          "description": "mdo/code-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
         {
           "node_type": "item",
           "title": "Airbnb",
-          "description": null,
+          "description": "airbnb/css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,7 +304,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6966,
+            "stars": 6965,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -312,7 +312,7 @@
         {
           "node_type": "item",
           "title": "necolas’s idiomatic-css",
-          "description": null,
+          "description": "necolas/idiomatic-css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -333,7 +333,7 @@
         {
           "node_type": "item",
           "title": "ThinkUp",
-          "description": null,
+          "description": "ThinkUpLLC/ThinkUp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -354,7 +354,7 @@
         {
           "node_type": "item",
           "title": "Dropbox",
-          "description": null,
+          "description": "dropbox/css-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -381,7 +381,7 @@
         {
           "node_type": "item",
           "title": "Erlang Guidelines",
-          "description": null,
+          "description": "inaka/erlang_guidelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -394,7 +394,7 @@
             "open_issues": 5,
             "owner": "inaka",
             "repo": "erlang_guidelines",
-            "stars": 641,
+            "stars": 639,
             "topics": [
               "erlang",
               "guidelines",
@@ -412,7 +412,7 @@
         {
           "node_type": "item",
           "title": "Large app how to",
-          "description": null,
+          "description": "pallets/flask",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -425,7 +425,7 @@
             "open_issues": 4,
             "owner": "pallets",
             "repo": "flask",
-            "stars": 74793,
+            "stars": 74796,
             "topics": [
               "flask",
               "jinja",
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "agis-",
-          "description": null,
+          "description": "agis/git-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,7 +473,7 @@
         {
           "node_type": "item",
           "title": "Git Commit Message",
-          "description": null,
+          "description": "slashsbin/styleguide-git-commit-message",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "CodeReviewComments",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -518,11 +518,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T14:41:03Z",
+            "last_commit": "2026-10-02T21:55:53Z",
             "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139133,
             "topics": [
               "go",
               "golang",
@@ -541,7 +541,7 @@
         {
           "node_type": "item",
           "title": "Haskell-style-guide",
-          "description": null,
+          "description": "tibbe/haskell-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -568,7 +568,7 @@
         {
           "node_type": "item",
           "title": "http-api-design",
-          "description": null,
+          "description": "interagent/http-api-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,7 +581,7 @@
             "open_issues": 30,
             "owner": "interagent",
             "repo": "http-api-design",
-            "stars": 13681,
+            "stars": 13679,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -595,7 +595,7 @@
         {
           "node_type": "item",
           "title": "mdo’s Code Guide",
-          "description": null,
+          "description": "mdo/code-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -622,7 +622,7 @@
         {
           "node_type": "item",
           "title": "Airbnb ES6",
-          "description": null,
+          "description": "airbnb/javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -632,10 +632,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148305,
+            "stars": 148301,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -658,7 +658,7 @@
         {
           "node_type": "item",
           "title": "Airbnb ES5",
-          "description": null,
+          "description": "airbnb/javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -668,10 +668,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148305,
+            "stars": 148301,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -694,7 +694,7 @@
         {
           "node_type": "item",
           "title": "Standard",
-          "description": null,
+          "description": "standard/standard",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -707,7 +707,7 @@
             "open_issues": 128,
             "owner": "standard",
             "repo": "standard",
-            "stars": 29429,
+            "stars": 29428,
             "topics": [
               "development",
               "ecmascript",
@@ -726,7 +726,7 @@
         {
           "node_type": "item",
           "title": "idiomatic.js",
-          "description": null,
+          "description": "rwaldron/idiomatic.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -739,7 +739,7 @@
             "open_issues": 58,
             "owner": "rwaldron",
             "repo": "idiomatic.js",
-            "stars": 25728,
+            "stars": 25729,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -747,7 +747,7 @@
         {
           "node_type": "item",
           "title": "node-style-guide",
-          "description": null,
+          "description": "felixge/node-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -774,7 +774,7 @@
         {
           "node_type": "item",
           "title": "Google Style Guide",
-          "description": null,
+          "description": "google/styleguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -784,10 +784,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T18:32:00Z",
-            "open_issues": 171,
+            "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39644,
+            "stars": 39647,
             "topics": [
               "cpplint",
               "style-guide",
@@ -799,7 +799,7 @@
         {
           "node_type": "item",
           "title": "NYTimes(The New York Times)",
-          "description": null,
+          "description": "nytimes/objective-c-style-guide",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -820,7 +820,7 @@
         {
           "node_type": "item",
           "title": "raywenderlich.com",
-          "description": null,
+          "description": "kodecocodes/objective-c-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -841,7 +841,7 @@
         {
           "node_type": "item",
           "title": "github/objective-c-style-guide",
-          "description": null,
+          "description": "github/objective-c-style-guide",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -868,7 +868,7 @@
         {
           "node_type": "item",
           "title": "Google Style Guide",
-          "description": null,
+          "description": "google/styleguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -878,10 +878,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T18:32:00Z",
-            "open_issues": 171,
+            "open_issues": 170,
             "owner": "google",
             "repo": "styleguide",
-            "stars": 39644,
+            "stars": 39647,
             "topics": [
               "cpplint",
               "style-guide",
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "Airbnb",
-          "description": null,
+          "description": "airbnb/javascript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -909,10 +909,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
-            "open_issues": 167,
+            "open_issues": 168,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148305,
+            "stars": 148301,
             "topics": [
               "arrow-functions",
               "es2015",
@@ -941,7 +941,7 @@
         {
           "node_type": "item",
           "title": "ghengeveld's Style Guide",
-          "description": null,
+          "description": "ghengeveld/react-redux-styleguide",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -968,7 +968,7 @@
         {
           "node_type": "item",
           "title": "bbatsov’s Ruby Style Guide",
-          "description": null,
+          "description": "rubocop/ruby-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -981,7 +981,7 @@
             "open_issues": 78,
             "owner": "rubocop",
             "repo": "ruby-style-guide",
-            "stars": 16547,
+            "stars": 16548,
             "topics": [
               "rubocop",
               "ruby",
@@ -993,7 +993,7 @@
         {
           "node_type": "item",
           "title": "Airbnb",
-          "description": null,
+          "description": "airbnb/ruby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1006,7 +1006,7 @@
             "open_issues": 17,
             "owner": "airbnb",
             "repo": "ruby",
-            "stars": 3891,
+            "stars": 3892,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -1014,7 +1014,7 @@
         {
           "node_type": "item",
           "title": "Cookpad",
-          "description": null,
+          "description": "cookpad/styleguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1035,7 +1035,7 @@
         {
           "node_type": "item",
           "title": "Christian Neukirchen's Ruby Style Guide",
-          "description": null,
+          "description": "leahneukirchen/styleguide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1062,7 +1062,7 @@
         {
           "node_type": "item",
           "title": "bbatsov's rails-style-guide",
-          "description": null,
+          "description": "rubocop/rails-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1094,7 +1094,7 @@
         {
           "node_type": "item",
           "title": "rust-lang Official Style Guide",
-          "description": null,
+          "description": "rust-lang/style-team",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,7 +1121,7 @@
         {
           "node_type": "item",
           "title": "spring-framework",
-          "description": null,
+          "description": "spring-projects/spring-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,8 +1130,8 @@
             "id": 1148753,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T14:26:54Z",
-            "open_issues": 481,
+            "last_commit": "2026-10-02T14:51:56Z",
+            "open_issues": 484,
             "owner": "spring-projects",
             "repo": "spring-framework",
             "stars": 60267,
@@ -1152,7 +1152,7 @@
         {
           "node_type": "item",
           "title": "raywenderlich.com",
-          "description": null,
+          "description": "kodecocodes/swift-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1165,7 +1165,7 @@
             "open_issues": 16,
             "owner": "kodecocodes",
             "repo": "swift-style-guide",
-            "stars": 13152,
+            "stars": 13151,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -1173,7 +1173,7 @@
         {
           "node_type": "item",
           "title": "github/swift-style-guide",
-          "description": null,
+          "description": "github/swift-style-guide",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1186,7 +1186,7 @@
             "open_issues": 4,
             "owner": "github",
             "repo": "swift-style-guide",
-            "stars": 4754,
+            "stars": 4753,
             "topics": []
           },
           "first_seen": "2026-08-28T20:11:06.860Z"
@@ -1194,7 +1194,7 @@
         {
           "node_type": "item",
           "title": "Slideshare (Linked)",
-          "description": null,
+          "description": "SlideShareInc/swift-style-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1217,7 +1217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:32.525Z",
+    "last_updated": "2026-10-03T05:11:02.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome style guide.",
