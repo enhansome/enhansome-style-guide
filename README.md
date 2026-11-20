@@ -1,7 +1,7 @@
 # Awesome:star:Style Guide with stars
 
 [![Build Status](https://api.travis-ci.org/kciter/awesome-style-guide.svg?branch=master)](https://api.travis-ci.org/kciter/awesome-style-guide)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,383 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,875 | 🐛 103 | 📅 2026-09-02
 
 A list of awesome **style guide**. The list is divided into categories such as Programming Languages, Architecture, Platforms, Frameworks.
 
@@ -61,14 +61,14 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Android
 
-* [android-guidelines](https://github.com/ribot/android-guidelines) ⭐ 4,985 | 🐛 11 | 📅 2021-07-10
-* [archi](https://github.com/ivacf/archi) ⭐ 3,296 | 🐛 12 | 🌐 Java | 📅 2019-10-03
+* [android-guidelines](https://github.com/ribot/android-guidelines) ⭐ 4,982 | 🐛 11 | 📅 2021-07-10
+* [archi](https://github.com/ivacf/archi) ⭐ 3,294 | 🐛 12 | 🌐 Java | 📅 2019-10-03
 * [android-code-style](https://source.android.com/source/code-style.html)
 
 ## AngularJS
 
 * [johnpapa's angular-styleguide](https://github.com/johnpapa/angular-styleguide) ⭐ 23,581 | 🐛 3 | 🌐 Vim Snippet | 📅 2026-04-30
-* [Todd Motto's angular-styleguide](https://github.com/toddmotto/angular-styleguide) ⭐ 5,904 | 🐛 23 | 📅 2022-08-24
+* [Todd Motto's angular-styleguide](https://github.com/toddmotto/angular-styleguide) ⭐ 5,902 | 🐛 23 | 📅 2022-08-24
 * [Google Style Guide](https://google.github.io/styleguide/angularjs-google-style.html)
 
 ## AWS
@@ -82,19 +82,19 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## C
 
-* [Linux](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst) ⭐ 256,070 | 🐛 3 | 🌐 C | 📅 2026-11-19
+* [Linux](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-style.rst) ⭐ 256,222 | 🐛 3 | 🌐 C | 📅 2026-11-20
 * [Apache httpd](https://httpd.apache.org/dev/styleguide.html)
 * [GNU](http://www.gnu.org/prep/standards/standards.html)
 * [NASA](https://ntrs.nasa.gov/search.jsp?R=19950022400)
 
 ## CoffeeScript
 
-* [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,629 | 🐛 18 | 📅 2018-11-08
+* [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide) ⭐ 1,628 | 🐛 18 | 📅 2018-11-08
 
 ## Cpp
 
-* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,483 | 🐛 250 | 🌐 CSS | 📅 2026-11-02
-* [cocos2d-x](https://github.com/cocos2d/cocos2d-x/blob/v3/docs/CODING_STYLE.md) ⭐ 19,251 | 🐛 1,603 | 🌐 C++ | 📅 2025-05-09
+* [CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) ⭐ 45,485 | 🐛 250 | 🌐 CSS | 📅 2026-11-02
+* [cocos2d-x](https://github.com/cocos2d/cocos2d-x/blob/v3/docs/CODING_STYLE.md) ⭐ 19,252 | 🐛 1,603 | 🌐 C++ | 📅 2025-05-09
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Geosoft Style Guide](http://geosoft.no/development/cppstyle.html)
 * [llvm style](http://llvm.org/docs/CodingStandards.html)
@@ -110,7 +110,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Clojure
 
-* [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) ⭐ 4,096 | 🐛 32 | 📅 2026-11-16
+* [clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) ⭐ 4,095 | 🐛 32 | 📅 2026-11-16
 
 ## CommonLisp
 
@@ -119,10 +119,10 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## CSS
 
-* [mod’s Code Guide](https://github.com/mdo/code-guide) ⭐ 8,453 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
+* [mod’s Code Guide](https://github.com/mdo/code-guide) ⭐ 8,452 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
 * [Airbnb](https://github.com/airbnb/css) ⭐ 6,959 | 🐛 23 | 📅 2024-06-04
-* [necolas’s idiomatic-css](https://github.com/necolas/idiomatic-css) ⭐ 6,637 | 🐛 7 | 📅 2022-12-21
-* [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) ⭐ 3,260 | 🐛 181 | 🌐 PHP | 📅 2017-01-01
+* [necolas’s idiomatic-css](https://github.com/necolas/idiomatic-css) ⭐ 6,636 | 🐛 7 | 📅 2022-12-21
+* [ThinkUp](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS) ⭐ 3,259 | 🐛 181 | 🌐 PHP | 📅 2017-01-01
 * [Dropbox](https://github.com/dropbox/css-style-guide) ⭐ 1,208 | 🐛 5 | 📅 2019-11-08
 * [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [WordPress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
@@ -142,11 +142,11 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Erlang
 
-* [Erlang Guidelines](https://github.com/inaka/erlang_guidelines) ⭐ 640 | 🐛 5 | 🌐 Erlang | 📅 2022-04-24
+* [Erlang Guidelines](https://github.com/inaka/erlang_guidelines) ⭐ 639 | 🐛 5 | 🌐 Erlang | 📅 2022-04-24
 
 ## Flask
 
-* [Large app how to](https://github.com/pallets/flask/wiki/Large-app-how-to) ⭐ 75,259 | 🐛 4 | 🌐 Python | 📅 2026-10-30
+* [Large app how to](https://github.com/pallets/flask/wiki/Large-app-how-to) ⭐ 75,299 | 🐛 4 | 🌐 Python | 📅 2026-10-30
 * [Pocoo Styleguide](http://flask.pocoo.org/docs/1.0/styleguide/)
 
 ## Git
@@ -158,7 +158,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Go
 
-* [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 140,088 | 🐛 9,914 | 🌐 Go | 📅 2026-11-19
+* [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 140,124 | 🐛 9,918 | 🌐 Go | 📅 2026-11-20
 * [EffectiveGo](https://golang.org/doc/effective_go.html)
 * [How to Write GO Code](https://golang.org/doc/code.html)
 
@@ -168,16 +168,16 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Haskell
 
-* [Haskell-style-guide](https://github.com/tibbe/haskell-style-guide) ⭐ 958 | 🐛 9 | 🌐 Emacs Lisp | 📅 2021-11-30
+* [Haskell-style-guide](https://github.com/tibbe/haskell-style-guide) ⭐ 957 | 🐛 9 | 🌐 Emacs Lisp | 📅 2021-11-30
 
 ## HTTP API Design
 
-* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,671 | 🐛 30 | 📅 2024-01-16
+* [http-api-design](https://github.com/interagent/http-api-design) ⭐ 13,670 | 🐛 30 | 📅 2024-01-16
 * [REST API](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 ## HTML
 
-* [mdo’s Code Guide](https://github.com/mdo/code-guide) ⭐ 8,453 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
+* [mdo’s Code Guide](https://github.com/mdo/code-guide) ⭐ 8,452 | 🐛 13 | 🌐 SCSS | 📅 2024-07-26
 * [Google Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [W3Schools](https://www.w3schools.com/html/html5_syntax.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/html/)
@@ -202,11 +202,11 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Javascript
 
-* [Airbnb ES6](https://github.com/airbnb/javascript) ⭐ 148,018 | 🐛 172 | 🌐 JavaScript | 📅 2026-04-16
-* [Airbnb ES5](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) ⭐ 148,018 | 🐛 172 | 🌐 JavaScript | 📅 2026-04-16
+* [Airbnb ES6](https://github.com/airbnb/javascript) ⭐ 148,022 | 🐛 171 | 🌐 JavaScript | 📅 2026-04-16
+* [Airbnb ES5](https://github.com/airbnb/javascript/tree/es5-deprecated/es5) ⭐ 148,022 | 🐛 171 | 🌐 JavaScript | 📅 2026-04-16
 * [Standard](https://github.com/feross/standard) ⭐ 29,426 | 🐛 128 | 🌐 JavaScript | 📅 2025-07-11
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js/) ⭐ 25,725 | 🐛 57 | 📅 2024-01-08
-* [node-style-guide](https://github.com/felixge/node-style-guide) ⭐ 4,983 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
+* [node-style-guide](https://github.com/felixge/node-style-guide) ⭐ 4,982 | 🐛 17 | 🌐 JavaScript | 📅 2021-01-24
 * [Google Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [W3Schools](https://www.w3schools.com/js/js_conventions.asp)
 * [jQuery](https://contribute.jquery.org/style-guide/js/)
@@ -228,9 +228,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Objective-C
 
-* [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md) ⭐ 39,848 | 🐛 85 | 🌐 Emacs Lisp | 📅 2026-11-18
+* [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md) ⭐ 39,852 | 🐛 85 | 🌐 Emacs Lisp | 📅 2026-11-19
 * [NYTimes(The New York Times)](https://github.com/NYTimes/objective-c-style-guide) ⚠️ Archived
-* [raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide) ⭐ 3,076 | 🐛 22 | 📅 2017-10-01
+* [raywenderlich.com](https://github.com/raywenderlich/objective-c-style-guide) ⭐ 3,075 | 🐛 22 | 📅 2017-10-01
 * [Github](https://github.com/github/objective-c-style-guide) ⚠️ Archived
 * [Apple](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Conventions/Conventions.html)
 
@@ -249,7 +249,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Python
 
-* [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) ⭐ 39,848 | 🐛 85 | 🌐 Emacs Lisp | 📅 2026-11-18
+* [Google Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) ⭐ 39,852 | 🐛 85 | 🌐 Emacs Lisp | 📅 2026-11-19
 * [PEP8](https://www.python.org/dev/peps/pep-0008/)
 * [Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 * [Learn Python Programming - Scaler Topics](https://www.scaler.com/topics/python/)
@@ -261,7 +261,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## React
 
-* [Airbnb](https://github.com/airbnb/javascript/tree/master/react) ⭐ 148,018 | 🐛 172 | 🌐 JavaScript | 📅 2026-04-16
+* [Airbnb](https://github.com/airbnb/javascript/tree/master/react) ⭐ 148,022 | 🐛 171 | 🌐 JavaScript | 📅 2026-04-16
 
 ## Redux
 
@@ -269,9 +269,9 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Ruby
 
-* [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,539 | 🐛 77 | 📅 2026-10-30
+* [bbatsov’s Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) ⭐ 16,537 | 🐛 77 | 📅 2026-10-30
 * [Airbnb](https://github.com/airbnb/ruby) ⭐ 3,885 | 🐛 17 | 🌐 Ruby | 📅 2025-12-19
-* [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md) ⭐ 1,176 | 🐛 3 | 📅 2026-02-12
+* [Cookpad](https://github.com/cookpad/styleguide/blob/master/ruby.en.md) ⭐ 1,175 | 🐛 3 | 📅 2026-02-12
 * [Christian Neukirchen's Ruby Style Guide](https://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE) ⭐ 442 | 🐛 2 | 📅 2018-04-17
 * [Scholar’s lab](http://praxis.scholarslab.org/resources/ruby-style-guide/)
 * [Relish](https://www.relishapp.com/womply/ruby-style-guide/docs/syntax)
@@ -283,7 +283,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Rust
 
-* [rust-lang Official Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md) ⭐ 476 | 🐛 31 | 🌐 Rust | 📅 2024-05-17
+* [rust-lang Official Style Guide](https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md) ⭐ 475 | 🐛 31 | 🌐 Rust | 📅 2024-05-17
 * [aturon’s Rust Style Guide](https://aturon.github.io/)
 
 ## Sass
@@ -301,11 +301,11 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## SpringFramework
 
-* [spring-framework](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Code-Style) ⭐ 60,329 | 🐛 517 | 🌐 Java | 📅 2026-11-19
+* [spring-framework](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Code-Style) ⭐ 60,328 | 🐛 519 | 🌐 Java | 📅 2026-11-20
 
 ## Swift
 
-* [raywenderlich.com](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,141 | 🐛 15 | 📅 2025-04-01
+* [raywenderlich.com](https://github.com/raywenderlich/swift-style-guide) ⭐ 13,142 | 🐛 15 | 📅 2025-04-01
 * [Github](https://github.com/github/swift-style-guide) ⚠️ Archived
 * [Slideshare (Linked)](https://github.com/SlideShareInc/swift-style-guide) ⭐ 93 | 🐛 0 | 📅 2016-06-05
 * [swift.org API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
@@ -326,7 +326,7 @@ A list of awesome **style guide**. The list is divided into categories such as P
 
 ## Vue.js
 
-* [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) ⭐ 2,808 | 🐛 6 | 📅 2024-06-04
+* [vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) ⭐ 2,809 | 🐛 6 | 📅 2024-06-04
 
 ## XML
 
@@ -351,4 +351,4 @@ If you like this open source, you can sponsor it. :smile:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
